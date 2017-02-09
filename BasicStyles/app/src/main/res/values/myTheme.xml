@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="reddyz_bg_color">#eed91d</color>
+    <style name="ReddyzTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/reddyz_bg_color</item>
+    </style>
+</resources>
